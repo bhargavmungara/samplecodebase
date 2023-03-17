@@ -1,5 +1,4 @@
 hello git!
-
-extra lines
+extra
 
 git is so cool
